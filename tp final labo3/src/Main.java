@@ -11,7 +11,7 @@ public class Main {
         Menu menues = new Menu();
 
         System.out.printf(menues.mostrarMenuInicial());
-        System.out.println("ingrese una opcion: ");
+        System.out.println("ingrese unajtdjghdfjgfj opcion: ");
         seleccion = scan.nextInt();
 
         switch (seleccion)
